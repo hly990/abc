@@ -79,5 +79,3 @@ Modifies profile properties including name, description, color, and default stat
 - **403:** Insufficient permissions
 - **404:** Profile not found
 - **400:** Invalid request parameters
-
----

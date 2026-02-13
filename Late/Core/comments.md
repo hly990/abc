@@ -372,5 +372,3 @@ Sends a private/direct message to the author of a comment. Currently supported o
 | **422** | Platform does not support the requested action |
 | **429** | Rate limit exceeded |
 | **500** | Internal server error |
-
----

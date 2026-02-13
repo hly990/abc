@@ -308,5 +308,3 @@ Edits a previously sent outgoing message. Support varies by platform.
 - Not all platforms support all messaging features (e.g., quick replies, message editing, media types).
 - Conversations are automatically created when a new incoming message is received from a platform user.
 - The inbox must be enabled for the connected account to receive and send messages.
-
----

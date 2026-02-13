@@ -359,5 +359,3 @@ Bluesky posts support:
 - Platform-specific fields only apply when posting to the corresponding platform. Fields for other platforms are ignored.
 - When posting to multiple platforms simultaneously, you can include settings for each platform within the same `platformSpecificData` object.
 - Refer to each platform's official documentation for the most current constraints and limitations.
-
----

@@ -456,5 +456,3 @@ Removes all bot commands from a Telegram bot account, clearing the command menu.
 | **404** | Account not found or settings not configured |
 | **429** | Rate limit exceeded |
 | **500** | Internal server error |
-
----

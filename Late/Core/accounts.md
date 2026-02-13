@@ -257,5 +257,3 @@ Performs a health check on a single connected account.
 | **404** | Account not found |
 | **429** | Rate limit exceeded |
 | **500** | Internal server error |
-
----

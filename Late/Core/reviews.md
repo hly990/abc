@@ -180,5 +180,3 @@ Deletes the reply from a specific review.
 - The `rating` field uses a 1-5 integer scale where 1 is the lowest and 5 is the highest.
 - Anonymous reviews will have `isAnonymous: true` and a generic display name.
 - Review deletion is not supported -- only reply management is available through the API.
-
----

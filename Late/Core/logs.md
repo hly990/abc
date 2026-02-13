@@ -368,5 +368,3 @@ A complete log entry contains the following fields:
 - The deprecated `/v1/logs` endpoint has a higher latency than the specific log endpoints.
 - Log metadata varies by action type and may include platform-specific error codes.
 - Logs are generated in real-time and are available immediately after an action occurs.
-
----
